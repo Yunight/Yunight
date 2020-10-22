@@ -5,7 +5,7 @@
 - 🔭 I just launched my [website]
 - 🌱 I’m currently using Flutter / React 
 - 👯 I’m looking to collaborate with other people / company
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects and create my own app to help people around the world
 - ⚡ Fun fact: I'm pretty good at fighting games 
 
 ### Connect with me:
