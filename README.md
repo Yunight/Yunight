@@ -5,7 +5,7 @@
 - 🔭 I just launched my website [Benchi-Chen][website]
 - 🌱 I’m currently using Flutter / React 
 - 👯 I’m looking to collaborate with other people / company
-- 🥅 2020 Goals: Contribute more to Open Source projects and create my own app to help people around the world
+- 🥅 2022 Goals: Contribute more to Open Source projects and create my own app to help people around the world
 - ⚡ Fun fact: I'm pretty good at fighting games and i do speak 4 languages : Chinese Mandarin / Wenzhouhua , English & French !
 
 ### Connect with me:
