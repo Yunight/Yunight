@@ -1,6 +1,6 @@
 ### Hi there, I'm Benchi - aka [Yunight][twitter] 👋
 
-## I'm a Gamer, Developer, and Traveller !!
+## I'm a Developer, Gamer and Traveller !!
 
 - 🔭 I just launched my new personal website [Benchi-Chen][website]
 - 🌱 I’m currently using React / Typescript / Nextjs
