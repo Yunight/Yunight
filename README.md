@@ -5,7 +5,7 @@
 - 🔭 I just launched my new personal website [Benchi-Chen][website]
 - 🌱 I’m currently using React / Typescript / Nextjs
 - 👯 I’m looking to collaborate with other people / company
-- 🥅 2022 Goals: Contribute more to Open Source projects and create my own app to help people around the world
+- 🥅 2023/2024 Goals: Contribute more to Open Source projects and create my own app to help people around the world
 - ⚡ Fun fact: I'm pretty good at fighting games and i do speak 4 languages : Chinese Mandarin / Wenzhouhua , English & French !
 
 ### Connect with me:
