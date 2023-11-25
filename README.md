@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Gamer and Traveller !!
 
-- 🔭 I just launched my new personal website [Benchi-Chen][website]
+- 🔭 I just launched my new personal website [Benchi-Chen][website] 
 - 🌱 I’m currently using React / Typescript / Nextjs
 - 👯 I’m looking to collaborate with other people / company
 - 🥅 2023/2024 Goals: Contribute more to Open Source projects and create my own app to help people around the world
@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[website]: https://Benchi-chen.com
+[website]: https://benchi-chen.vercel.app/
 [twitter]: https://twitter.com/nightoflunatv
 [instagram]: https://instagram.com/_mr_oriz
 [linkedin]: https://www.linkedin.com/in/benchi-chen-b495626b/
