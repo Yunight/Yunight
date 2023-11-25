@@ -2,7 +2,7 @@
 
 ## I'm a Gamer, Developer, and Traveller !!
 
-- 🔭 I just launched my new personnal website [Benchi-Chen][website]
+- 🔭 I just launched my new personal website [Benchi-Chen][website]
 - 🌱 I’m currently using React / Typescript / Nextjs
 - 👯 I’m looking to collaborate with other people / company
 - 🥅 2022 Goals: Contribute more to Open Source projects and create my own app to help people around the world
