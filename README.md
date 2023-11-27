@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[website]: https://benchi-chen.vercel.app/
+[website]: https://benchi-chen.com
 [twitter]: https://twitter.com/nightoflunatv
 [instagram]: https://instagram.com/_mr_oriz
 [linkedin]: https://www.linkedin.com/in/benchi-chen-b495626b/
